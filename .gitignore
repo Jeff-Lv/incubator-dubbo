@@ -29,6 +29,3 @@ target/
 .DS_Store
 Thumbs.db
 *.orig
-
-# demo
-dubbo-dubbo/
